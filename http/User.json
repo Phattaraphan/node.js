@@ -1,0 +1,23 @@
+[
+     { "Id":1,
+       "Fname":"sompong",
+       "Lname":"kanongfeat",
+       "Tel": "0957253694",
+       "Emali":"sompong@gmail.com",
+       "Role":"CEO"
+     },
+     { "Id":2,
+          "Fname":"somsak",
+          "Lname":"kimju",
+          "Tel": "0823659248",
+          "Emali":"somsak@gmail.com",
+          "Role":"CIO"
+     },
+     { "Id":3,
+          "Fname":"sompying",
+          "Lname":"piya",
+          "Tel": "0619551658",
+          "Emali":"sompying@gmail.com",
+          "Role":"CTO"
+     }
+]
